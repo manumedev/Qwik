@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="unitBarBackground">#F5F5F5</color>
+    <color name="unitButtonColor">#4CAF50</color>
+    <color name="unitButtonSelected">#2E7D32</color>
+    <color name="unitButtonUnselected">#81C784</color>
+    <dimen name="alarm_button_height">72dp</dimen>
+    <plurals name="days">
+        <item quantity="one">day</item>
+        <item quantity="other">days</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">hour</item>
+        <item quantity="other">hours</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">minute</item>
+        <item quantity="other">minutes</item>
+    </plurals>
+    <string name="alarm_set">Alarm set for %1$d minutes</string>
+    <string name="app_name">Qwik</string>
+</resources>

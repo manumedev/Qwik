@@ -1,0 +1,7 @@
+#Sat Dec 07 19:26:00 GMT 2024
+base.0=C\:\\Users\\ranja\\OneDrive\\Qwik\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\ranja\\OneDrive\\Qwik\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\1\\classes.dex
+path.0=0/classes.dex
+path.1=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

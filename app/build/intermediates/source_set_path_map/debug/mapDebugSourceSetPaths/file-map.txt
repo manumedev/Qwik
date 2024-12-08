@@ -1,0 +1,35 @@
+com.example.alarmbutton.app-lifecycle-process-2.6.1-0 C:\Users\manbh\.gradle\caches\8.9\transforms\05517b583c9879729ea5d1af2d0b3e00\transformed\lifecycle-process-2.6.1\res
+com.example.alarmbutton.app-material-1.11.0-1 C:\Users\manbh\.gradle\caches\8.9\transforms\12d382f4e523b433adf592beaeb44e11\transformed\material-1.11.0\res
+com.example.alarmbutton.app-core-runtime-2.2.0-2 C:\Users\manbh\.gradle\caches\8.9\transforms\1ccdc685344b04c7b8aac4770e0f7869\transformed\core-runtime-2.2.0\res
+com.example.alarmbutton.app-lifecycle-livedata-2.6.1-3 C:\Users\manbh\.gradle\caches\8.9\transforms\208c1c58933737120ffdc9d74d10967d\transformed\lifecycle-livedata-2.6.1\res
+com.example.alarmbutton.app-recyclerview-1.3.2-4 C:\Users\manbh\.gradle\caches\8.9\transforms\272532b645bcc077a5e02def602dff0c\transformed\recyclerview-1.3.2\res
+com.example.alarmbutton.app-core-ktx-1.12.0-5 C:\Users\manbh\.gradle\caches\8.9\transforms\39585f8dfc0c78e17162513343f1e951\transformed\core-ktx-1.12.0\res
+com.example.alarmbutton.app-transition-1.2.0-6 C:\Users\manbh\.gradle\caches\8.9\transforms\4075d9727debb35331f99e3ae772f97a\transformed\transition-1.2.0\res
+com.example.alarmbutton.app-appcompat-1.6.1-7 C:\Users\manbh\.gradle\caches\8.9\transforms\6279cdad8bf859f2fd34d202af291310\transformed\appcompat-1.6.1\res
+com.example.alarmbutton.app-startup-runtime-1.1.1-8 C:\Users\manbh\.gradle\caches\8.9\transforms\63566d903634f6e2744011c28f40fab7\transformed\startup-runtime-1.1.1\res
+com.example.alarmbutton.app-cardview-1.0.0-9 C:\Users\manbh\.gradle\caches\8.9\transforms\65497bc29ea700b118de8aaf56fbd9ff\transformed\cardview-1.0.0\res
+com.example.alarmbutton.app-drawerlayout-1.1.1-10 C:\Users\manbh\.gradle\caches\8.9\transforms\67a859d00a40fb2bf55633df2a1f3b25\transformed\drawerlayout-1.1.1\res
+com.example.alarmbutton.app-viewpager2-1.1.0-beta02-11 C:\Users\manbh\.gradle\caches\8.9\transforms\68b0e783534acd48ea729c8bf8b9c024\transformed\viewpager2-1.1.0-beta02\res
+com.example.alarmbutton.app-emoji2-1.2.0-12 C:\Users\manbh\.gradle\caches\8.9\transforms\6b9fb7d44dda04f9f06af59da1f10f55\transformed\emoji2-1.2.0\res
+com.example.alarmbutton.app-annotation-experimental-1.3.0-13 C:\Users\manbh\.gradle\caches\8.9\transforms\71667d5240c743baf06c254b0c1778e3\transformed\annotation-experimental-1.3.0\res
+com.example.alarmbutton.app-activity-1.8.0-14 C:\Users\manbh\.gradle\caches\8.9\transforms\7b0d95e79201b11bb64b2a2f7adb5d6a\transformed\activity-1.8.0\res
+com.example.alarmbutton.app-constraintlayout-2.1.4-15 C:\Users\manbh\.gradle\caches\8.9\transforms\84eff938778ea119948de0e2337afd1d\transformed\constraintlayout-2.1.4\res
+com.example.alarmbutton.app-profileinstaller-1.3.0-16 C:\Users\manbh\.gradle\caches\8.9\transforms\8a2db62e357d7eaeba10f5d88c2b072f\transformed\profileinstaller-1.3.0\res
+com.example.alarmbutton.app-lifecycle-viewmodel-savedstate-2.6.1-17 C:\Users\manbh\.gradle\caches\8.9\transforms\93b7e7258b2f2d67585d8048f03f2058\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.alarmbutton.app-lifecycle-livedata-core-2.6.1-18 C:\Users\manbh\.gradle\caches\8.9\transforms\adc38b74baeb347526797df48af76b88\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.alarmbutton.app-emoji2-views-helper-1.2.0-19 C:\Users\manbh\.gradle\caches\8.9\transforms\b75d0d71bdcfc83957d5d8b0bee91c15\transformed\emoji2-views-helper-1.2.0\res
+com.example.alarmbutton.app-fragment-1.3.6-20 C:\Users\manbh\.gradle\caches\8.9\transforms\e284dd83dccf9ed40c0493a920f6ecda\transformed\fragment-1.3.6\res
+com.example.alarmbutton.app-appcompat-resources-1.6.1-21 C:\Users\manbh\.gradle\caches\8.9\transforms\e78b633ccaff95bca154346366994776\transformed\appcompat-resources-1.6.1\res
+com.example.alarmbutton.app-customview-poolingcontainer-1.0.0-22 C:\Users\manbh\.gradle\caches\8.9\transforms\ecd16fc2dc3ba415f5b7387b8dc0dda2\transformed\customview-poolingcontainer-1.0.0\res
+com.example.alarmbutton.app-lifecycle-viewmodel-2.6.1-23 C:\Users\manbh\.gradle\caches\8.9\transforms\ef134f6875cf888ca2cbddad9229779c\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.alarmbutton.app-core-1.12.0-24 C:\Users\manbh\.gradle\caches\8.9\transforms\efbd351d1fba1edf7c11ae27dc0cd45c\transformed\core-1.12.0\res
+com.example.alarmbutton.app-lifecycle-runtime-2.6.1-25 C:\Users\manbh\.gradle\caches\8.9\transforms\f11a61b91f74bf10271c37730fb57bb2\transformed\lifecycle-runtime-2.6.1\res
+com.example.alarmbutton.app-savedstate-1.2.1-26 C:\Users\manbh\.gradle\caches\8.9\transforms\f17f7d976c670db7b2450ba462a0cfde\transformed\savedstate-1.2.1\res
+com.example.alarmbutton.app-coordinatorlayout-1.1.0-27 C:\Users\manbh\.gradle\caches\8.9\transforms\fbe1bc7e31b0fc35bfd5a4e473f8a8b2\transformed\coordinatorlayout-1.1.0\res
+com.example.alarmbutton.app-pngs-28 C:\Users\manbh\OneDrive\My projects\Qwik\app\build\generated\res\pngs\debug
+com.example.alarmbutton.app-resValues-29 C:\Users\manbh\OneDrive\My projects\Qwik\app\build\generated\res\resValues\debug
+com.example.alarmbutton.app-packageDebugResources-30 C:\Users\manbh\OneDrive\My projects\Qwik\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.alarmbutton.app-packageDebugResources-31 C:\Users\manbh\OneDrive\My projects\Qwik\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.alarmbutton.app-debug-32 C:\Users\manbh\OneDrive\My projects\Qwik\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.alarmbutton.app-debug-33 C:\Users\manbh\OneDrive\My projects\Qwik\app\src\debug\res
+com.example.alarmbutton.app-main-34 C:\Users\manbh\OneDrive\My projects\Qwik\app\src\main\res

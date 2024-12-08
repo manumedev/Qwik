@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color ic_launcher_background
+drawable ic_launcher_foreground
+drawable rounded_button
+id buttonContainer
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+plurals days
+plurals hours
+plurals minutes
+string alarm_set
+string app_name

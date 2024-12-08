@@ -1,0 +1,4 @@
+com.example.alarmbutton.test.app-androidTest-0 C:\Users\ranja\OneDrive\Qwik\app\build\generated\res\resValues\androidTest\debug
+com.example.alarmbutton.test.app-mergeDebugAndroidTestResources-1 C:\Users\ranja\OneDrive\Qwik\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.alarmbutton.test.app-mergeDebugAndroidTestResources-2 C:\Users\ranja\OneDrive\Qwik\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.alarmbutton.test.app-debugAndroidTest-3 C:\Users\ranja\OneDrive\Qwik\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

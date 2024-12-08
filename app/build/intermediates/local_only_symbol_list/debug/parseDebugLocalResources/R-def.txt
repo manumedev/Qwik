@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color ic_launcher_background
+color unitBarBackground
+color unitButtonColor
+color unitButtonSelected
+color unitButtonUnselected
+dimen alarm_button_height
+drawable alarm_button_background
+drawable ic_launcher_foreground
+drawable rounded_button
+drawable unit_button_background
+id activeAlarmsRecycler
+id alarmTime
+id buttonContainer
+id dismissButton
+id unitContainer
+layout activity_main
+layout item_alarm
+mipmap ic_launcher
+mipmap ic_launcher_round
+plurals days
+plurals hours
+plurals minutes
+string alarm_set
+string app_name
